@@ -22,6 +22,6 @@ overview of the recent Lund housing market, but also answer business-like questi
 
 Here I gradually upload Python solutions for the exercises of the famous online [machine learning](https://www.coursera.org/learn/machine-learning) course from _Andrew Ng_. Like many other, this course introduced me into the ML and AI world. For the educational purpose, here I try not only rewrite all original Matlab codes in Python but also implement corresponding algorithms in Scikit-learn as a comparison. Some problems are solved using different methods.   
 
-# AlgoExpert Solutions
+# [AlgoExpert Solutions](https://github.com/zwchang/algoexpert-solutions)
 
 Both software engineer and data scientist profession require solid foundation of algorithms and data structure knowledge and programming skills. The most efficient way to get this ability is through extensive practice, either working on real projects or solving coding interview questions on [LeetCode](https://leetcode.com/). I chose a slightly different platform [AlgoExpert](https://www.algoexpert.io/) where they select about 160 common coding interview questions. For each of them, they also provide video explanation about the solution. So far, I've solved 20 questions and I will keep going. In the meantime, I will also gradually upload the questions together with my solutions to this repo. 
