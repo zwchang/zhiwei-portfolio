@@ -1,2 +1,2 @@
-# zhiwei-portfolio
+# Zhiwei Portfolio
 Data Science Portfolio
