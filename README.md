@@ -17,6 +17,8 @@ overview of the recent Lund housing market, but also answer business-like questi
 * What is the reasonable price for a given property with parameters like 
   location, living area size, number of rooms, floor number, year of build, 
   etc.?
+  
+  ![](https://github.com/zwchang/zhiwei_portfolio/blob/main/images/agencies_pie.png)
     
 # [Assignments from Andrew Ng's machine learning online course rewritten using Python](https://github.com/zwchang/machine-learning-course-AndrewNg)
 
