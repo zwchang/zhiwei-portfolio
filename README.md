@@ -1,7 +1,7 @@
 # Zhiwei Portfolio
 Data Science Portfolio
 
-## Project overview
+## Analysis and Prediction of Apartment Sales in Lund, Sweden
 
 The aim of this project is to provide a thorough analysis and eventually
 build model using machine learning algorithms to predict the housing prices in 
